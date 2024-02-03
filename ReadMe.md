@@ -19,7 +19,7 @@ This is a basic port scanner tool implemented in Python. It allows you to scan f
 1. Clone the repository or download the Python script.
 
     ```bash
-    git clone https://github.com/yourusername/your-port-scanner.git
+    git clone https://github.com/hellw1nd/Python-PortScanner
     ```
 
 2. Navigate to the directory.
@@ -31,13 +31,13 @@ This is a basic port scanner tool implemented in Python. It allows you to scan f
 3. Run the script with the target host and port range as arguments.
 
     ```bash
-    python scanner.py <target_host> <start_port> <end_port>
+    python3 scanner.py <target-ip>
     ```
 
     Example:
 
     ```bash
-    python scanner.py example.com 50 85
+    python3 scanner.py example.com 
     ```
 
 4. View the results.
